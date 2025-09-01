@@ -39,6 +39,8 @@
 
 *Gabarito:*
 
+**CONSTANTE_BONUS = 1000**
+
 **nome_usuario = input("Digite seu nome: ")**
 
 **salario_usuario = float(input("Digite seu salário: ))**
